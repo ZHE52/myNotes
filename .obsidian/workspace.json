@@ -4,123 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "cde3d0e22933c4f3",
+        "id": "cb614fde288e4e32",
         "type": "tabs",
         "children": [
           {
-            "id": "d292274587edfd72",
+            "id": "fb899793785e7e4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习笔记/鸿蒙笔记.md",
+                "file": "学习笔记/算法/灵茶山艾府基础算法/灵茶山艾府算法基础README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "鸿蒙笔记"
+              "title": "灵茶山艾府算法基础README"
             }
           },
           {
-            "id": "273cbe49ad1ea0f7",
+            "id": "3f437386ae6af11c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "影视娱乐/游戏世界.md",
+                "file": "投简历/小号配置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "游戏世界"
+              "title": "小号配置"
             }
           },
           {
-            "id": "b7cf1d5dcf080e21",
+            "id": "18ea8650879b0b26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "影视娱乐/游戏世界.md",
+                "file": "学习笔记/算法/hot100.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "游戏世界"
+              "title": "hot100"
             }
           },
           {
-            "id": "202731cf78082a27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 1"
-            }
-          },
-          {
-            "id": "bb2596d28175d39a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 2"
-            }
-          },
-          {
-            "id": "63f85bf211fe3749",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名 3"
-            }
-          },
-          {
-            "id": "843f3569ed4382b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习笔记/使用git/舒服的git使用方法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "舒服的git使用方法"
-            }
-          },
-          {
-            "id": "c2b51d5de12dfeff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习笔记/鸿蒙笔记/鸿蒙笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "鸿蒙笔记"
-            }
-          },
-          {
-            "id": "70ea4eec7b9faaed",
+            "id": "59cdce76180a5a1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -132,50 +62,8 @@
               "icon": "lucide-file",
               "title": "美团Demo"
             }
-          },
-          {
-            "id": "9fa9fe101b65507e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习笔记/使用git/first.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "first"
-            }
-          },
-          {
-            "id": "deed6b6a32a7fe8d",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
-              },
-              "icon": "lucide-table",
-              "title": "未命名"
-            }
-          },
-          {
-            "id": "d454b2cef324fb72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "新世界/mac使用技巧.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mac使用技巧"
-            }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,8 +116,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -347,32 +234,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d454b2cef324fb72",
+  "active": "fb899793785e7e4c",
   "lastOpenFiles": [
-    "学习笔记/鸿蒙学习/鸿蒙笔记.md",
-    "学习笔记/鸿蒙笔记/鸿蒙笔记.md",
-    "学习笔记/鸿蒙学习/鸿蒙笔记.assets/image-20260309151016375.png",
-    "学习笔记/鸿蒙学习/鸿蒙笔记.assets/image-20260309151003896.png",
-    "未命名.md",
-    "img/Pasted image 20260309150518.png",
+    "学习笔记/项目资料/鸿蒙项目/美团Demo.md",
+    "未命名 1.md",
+    "img/Pasted image 20260310115950.png",
+    "img/Pasted image 20260310115942.png",
+    "学习笔记/算法/hot100.md",
+    "学习笔记/算法/hot100.assets/image-20260310115632712.png",
+    "学习笔记/算法/hot100.assets/image-20260310115618454.png",
+    "学习笔记/算法/hot100.assets",
+    "学习笔记/算法/img/Pasted image 20260310115549.png",
+    "学习笔记/算法/hot100~.md",
+    "学习笔记/算法/img/Pasted image 20260310114251.png",
+    "学习笔记/算法/img",
+    "生活记录/13pm电池记录.md",
+    "生活记录/img/7e1e57c7162924c05a10365f22a34edd.png",
+    "生活记录/img/Pasted image 20260309232422.png",
+    "生活记录/img",
+    "投简历/小号配置.md",
+    "生活记录",
+    "投简历/img/Pasted image 20260309194609.png",
+    "投简历/img",
+    "学习笔记/算法/灵茶山艾府基础算法/灵茶山艾府算法基础README.md",
+    "投简历",
+    "git 绑定.md",
     "img/Pasted image 20260309150507.png",
+    "学习笔记/鸿蒙学习/鸿蒙笔记.md",
+    "新世界/mac使用技巧.md",
+    "学习笔记/鸿蒙笔记/鸿蒙笔记.md",
+    "未命名.md",
     "未命名.base",
     "新世界/【3】output/【0】‼️‼️一切皆项目/【0】💪💪进行中/4、公众号/旅居独居生活.md",
     "学习笔记/vue学习/vue3学习/尚硅谷-vue3/代码/备份/044_组件通信/pages/09_slot_默认插槽/Father.vue",
     "学习笔记/vue学习/vue3学习/尚硅谷-vue3/代码/备份/044_组件通信/pages/09_slot_默认插槽/Category.vue",
     "学习笔记/vue学习/vue3学习/尚硅谷-vue3/代码/备份/044_组件通信/pages/09_slot_具名插槽/Father.vue",
-    "学习笔记/vue学习/vue3学习/尚硅谷-vue3/代码/备份/044_组件通信/pages/09_slot_具名插槽/Category.vue",
-    "学习笔记/vue学习/vue3学习/尚硅谷-vue3/代码/备份/044_组件通信/pages/09_slot_作用域插槽/Game.vue",
-    "学习笔记/vue学习/vue3学习/尚硅谷-vue3/代码/备份/044_组件通信/pages/09_slot_作用域插槽/Father.vue",
-    "学习笔记/vue学习/vue3学习/尚硅谷-vue3/代码/备份/044_组件通信/pages/09_slot/Game.vue",
-    "学习笔记/vue学习/vue3学习/尚硅谷-vue3/代码/备份/044_组件通信/pages/09_slot/Father.vue",
-    "学习笔记/vue学习/vue3学习/尚硅谷-vue3/代码/备份/044_组件通信/pages/08_pinia/Father.vue",
-    "学习笔记/vue学习/Vue2+3入门到实战-配套资料/01-随堂代码&素材/day01/vueDay1code/imgs/11-05.png",
-    "学习笔记/vue学习/Vue2+3入门到实战-配套资料/01-随堂代码&素材/day01/vueDay1code/imgs/11-04.png",
-    "学习笔记/vue学习/Vue2+3入门到实战-配套资料/01-随堂代码&素材/day01/vueDay1code/imgs/11-03.gif",
-    "学习笔记/vue学习/Vue2+3入门到实战-配套资料/01-随堂代码&素材/day01/vueDay1code/imgs/10-02.png",
-    "学习笔记/vue学习/Vue2+3入门到实战-配套资料/01-随堂代码&素材/day01/准备代码/imgs/10-02.png",
-    "学习笔记/vue学习/Vue2+3入门到实战-配套资料/01-随堂代码&素材/day01/vueDay1code/imgs/11-02.gif",
     "学习笔记/vue学习/Vue2+3入门到实战-配套资料/02-MD笔记/day03/day03.md",
     "学习笔记/vue学习/Vue2+3入门到实战-配套资料/02-MD笔记/day02/day02.md",
     "学习笔记/vue学习/Vue2+3入门到实战-配套资料/02-MD笔记/day01/day01.md",
@@ -381,19 +277,11 @@
     "新世界/【3】output/【0】‼️‼️一切皆项目/【0】💪💪进行中/1鸿蒙开发/如何学好鸿蒙开发.md",
     "学习笔记/使用git/first.md",
     "学习笔记/使用git/舒服的git使用方法.md",
-    "新世界/mac使用技巧.md",
     "新世界/【3】output/【0】‼️‼️一切皆项目/【1】⌛️⌛️搁置/2前端开发/学习路线规划.md",
     "新世界/【3】output/【0】‼️‼️一切皆项目/【0】💪💪进行中/0当前项目的的侧重比.md",
     "新世界/【3】output/【0】‼️‼️一切皆项目/【0】💪💪进行中/6、技术/ios.md",
     "新世界/【3】output/【0】‼️‼️一切皆项目/【0】💪💪进行中/6、技术/未命名 2.md",
     "新世界/【3】output/【0】‼️‼️一切皆项目/【0】💪💪进行中/6、技术/未命名.md",
-    "学习笔记/算法/hot100.md",
-    "学习笔记/算法/灵茶山艾府基础算法/灵茶山艾府算法基础README.md",
-    "学习笔记/算法/灵茶山艾府基础算法/灵茶山艾府算法基础README~.md",
-    "学习笔记/项目资料/鸿蒙项目/美团Demo.md",
-    "--郑州.md",
-    "111.md",
-    "2026-03-06.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "未命名 2.canvas"
