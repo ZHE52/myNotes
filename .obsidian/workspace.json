@@ -11,14 +11,12 @@
             "id": "fb899793785e7e4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "学习笔记/算法/灵茶山艾府基础算法/灵茶山艾府算法基础README.md",
-                "mode": "source",
-                "source": false
+                "file": "img/Pasted image 20260310115950.png"
               },
-              "icon": "lucide-file",
-              "title": "灵茶山艾府算法基础README"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260310115950"
             }
           },
           {
@@ -63,7 +61,8 @@
               "title": "美团Demo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,12 +233,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb899793785e7e4c",
+  "active": "a6e38879cb342ca5",
   "lastOpenFiles": [
+    "学习笔记/不明白/fontend不明白.md",
+    "学习笔记/不明白/fontend~.md",
+    "img/Pasted image 20260310115950.png",
+    "学习笔记/不明白/fontend.md",
+    "学习笔记/不明白",
+    "img/Pasted image 20260310115942.png",
+    "img/Pasted image 20260309150518.png",
+    "img/Pasted image 20260309150507.png",
+    "学习笔记/算法/灵茶山艾府基础算法/灵茶山艾府算法基础README.md",
     "学习笔记/项目资料/鸿蒙项目/美团Demo.md",
     "未命名 1.md",
-    "img/Pasted image 20260310115950.png",
-    "img/Pasted image 20260310115942.png",
     "学习笔记/算法/hot100.md",
     "学习笔记/算法/hot100.assets/image-20260310115632712.png",
     "学习笔记/算法/hot100.assets/image-20260310115618454.png",
@@ -254,12 +260,9 @@
     "生活记录/img",
     "投简历/小号配置.md",
     "生活记录",
-    "投简历/img/Pasted image 20260309194609.png",
     "投简历/img",
-    "学习笔记/算法/灵茶山艾府基础算法/灵茶山艾府算法基础README.md",
     "投简历",
     "git 绑定.md",
-    "img/Pasted image 20260309150507.png",
     "学习笔记/鸿蒙学习/鸿蒙笔记.md",
     "新世界/mac使用技巧.md",
     "学习笔记/鸿蒙笔记/鸿蒙笔记.md",
@@ -268,7 +271,6 @@
     "新世界/【3】output/【0】‼️‼️一切皆项目/【0】💪💪进行中/4、公众号/旅居独居生活.md",
     "学习笔记/vue学习/vue3学习/尚硅谷-vue3/代码/备份/044_组件通信/pages/09_slot_默认插槽/Father.vue",
     "学习笔记/vue学习/vue3学习/尚硅谷-vue3/代码/备份/044_组件通信/pages/09_slot_默认插槽/Category.vue",
-    "学习笔记/vue学习/vue3学习/尚硅谷-vue3/代码/备份/044_组件通信/pages/09_slot_具名插槽/Father.vue",
     "学习笔记/vue学习/Vue2+3入门到实战-配套资料/02-MD笔记/day03/day03.md",
     "学习笔记/vue学习/Vue2+3入门到实战-配套资料/02-MD笔记/day02/day02.md",
     "学习笔记/vue学习/Vue2+3入门到实战-配套资料/02-MD笔记/day01/day01.md",
@@ -279,9 +281,6 @@
     "学习笔记/使用git/舒服的git使用方法.md",
     "新世界/【3】output/【0】‼️‼️一切皆项目/【1】⌛️⌛️搁置/2前端开发/学习路线规划.md",
     "新世界/【3】output/【0】‼️‼️一切皆项目/【0】💪💪进行中/0当前项目的的侧重比.md",
-    "新世界/【3】output/【0】‼️‼️一切皆项目/【0】💪💪进行中/6、技术/ios.md",
-    "新世界/【3】output/【0】‼️‼️一切皆项目/【0】💪💪进行中/6、技术/未命名 2.md",
-    "新世界/【3】output/【0】‼️‼️一切皆项目/【0】💪💪进行中/6、技术/未命名.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "未命名 2.canvas"
