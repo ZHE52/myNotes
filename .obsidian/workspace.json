@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投简历/小号配置.md",
+                "file": "学习笔记/使用git/舒服的git使用方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "小号配置"
+              "title": "舒服的git使用方法"
             }
           },
           {
@@ -233,8 +233,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6e38879cb342ca5",
+  "active": "3f437386ae6af11c",
   "lastOpenFiles": [
+    "投简历/小号配置.md",
     "学习笔记/不明白/fontend不明白.md",
     "学习笔记/不明白/fontend~.md",
     "img/Pasted image 20260310115950.png",
@@ -258,7 +259,6 @@
     "生活记录/img/7e1e57c7162924c05a10365f22a34edd.png",
     "生活记录/img/Pasted image 20260309232422.png",
     "生活记录/img",
-    "投简历/小号配置.md",
     "生活记录",
     "投简历/img",
     "投简历",
